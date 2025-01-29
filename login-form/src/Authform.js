@@ -30,6 +30,7 @@ function Authform() {
                  <input type='password' placeholder='password'/>
                  <input type='password' placeholder='Confirm password'/>
                  <button>Signup</button>
+                 
                  </div>
                </>}    
           </div>
